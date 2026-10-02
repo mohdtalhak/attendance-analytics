@@ -1,0 +1,8 @@
+{
+  "name": "AttendView Analytics",
+  "description": "Real-time student attendance dashboard featuring interactive charts and instant filtering for college data analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
